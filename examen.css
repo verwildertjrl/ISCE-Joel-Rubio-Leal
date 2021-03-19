@@ -12,6 +12,7 @@ p{
 
 nav{
     background-color: wheat;
+    justify-content: space-around;
 }
 
 h2{
