@@ -12,7 +12,7 @@ p{
 
 nav{
     background-color: wheat;
-    justify-content: space-around;
+    
 }
 
 h2{
@@ -21,4 +21,8 @@ h2{
 
 h3{
     color:white;
+}
+
+a{
+    justify-content: space-around;
 }
