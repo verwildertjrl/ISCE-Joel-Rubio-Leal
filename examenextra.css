@@ -1,0 +1,22 @@
+header{
+    background-color:brown;
+    text-align:center;
+}
+
+h1{
+    color:white;
+}
+main{
+    text-align:center;
+}
+html{
+    background-color:lightgoldenrodyellow;
+}
+footer{
+    background-color: gray;
+    text-align:justify;
+    color: white;
+    text-align-last: right;
+    margin: 1cm;
+    margin-top: 9cm;
+}
